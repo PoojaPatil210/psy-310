@@ -1,0 +1,7 @@
+8.3043 	WARNING 	t of last frame was 26.27ms (=1/38)
+8.3308 	WARNING 	t of last frame was 26.48ms (=1/37)
+8.3544 	WARNING 	t of last frame was 23.63ms (=1/42)
+8.3776 	WARNING 	t of last frame was 23.19ms (=1/43)
+8.4714 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+9.2382 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+0.0184 	WARNING 	Increasing number of minimum required reversals to the number of step sizes, (4).
