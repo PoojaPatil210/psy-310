@@ -1,0 +1,22 @@
+﻿tilt,key_resp.keys,key_resp.corr,,  hit,miss,fa,cr,,
+1,up,0,,,1,,,,
+-3,down,1,,,,,1,,
+-5,down,1,,,,,1,,
+0,up,1,,1,,,,,
+0,down,0,,,1,,,,
+0,up,1,,1,,,,,
+4,down,1,,,,,1,,
+-3,down,1,,,,,1,,
+-2,down,1,,,,,1,,
+0,up,1,,1,,,,,
+,,,,3,2,0,5,,
+,,,,,,,,,
+,,,,,Respond YES,Respond NO,,prop hit = hit/hit+miss,0.5
+,,,,Signal Present,Hit,Miss,,prop fa= fa/fa+corr rej,0.142857143
+,,,,Singal Absent,False Alarm,Correct Rejection,,,
+,,,  ,,,,,,
+,,,,,,,,d-prime=z(prop hit)- z(prop fa),1.067570524
+,,,,,,,,c= -z(prop hit) + z(prop fa)/2,-0.533785262
+,,,,,Respond YES,Respond NO,,,
+,,,,Signal Present,3,3,,,
+,,,,Singal Absent,0.5,5,,,
