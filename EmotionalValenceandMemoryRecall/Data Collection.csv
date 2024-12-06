@@ -1,0 +1,16 @@
+Participant_ID,Valence,Score,Age
+1,Positive,17,21
+2,Positive,17,23
+3,Positive,11,22
+4,Positive,12,20
+5,Positive,15,21
+6,Negative,18,23
+7,Negative,19,22
+8,Negative,11,23
+9,Negative,17,20
+10,Negative,21,21
+11,Neutral,14,25
+12,Neutral,12,24
+13,Neutral,4,20
+14,Neutral,10,21
+15,Neutral,11,22
